@@ -9,9 +9,6 @@ We have achieved a test accuracy of 90.96 %
 Streamlit app DEMO:
 https://youtu.be/-DfnaBzpETc
 
-Streamlit app:
-https://leaf-disease-97fgeqoini6elhzmxmqmqr.streamlit.app/
-
 Kaggle dataset:
 https://www.kaggle.com/datasets/dev523/leaf-disease-detection-dataset
 
